@@ -1,0 +1,160 @@
+"Eclipse of the Arcane"
+
+    - Wizard student protagonist
+    - Ancient darkness awakening
+    - Artifacts / fragments of an Eclipse of the Arcane in each area
+    - Spells typed by the user (correct = success, wrong = penalties)
+    - Final choice: Save the world OR embrace dark magic
+    - Two endings: Hero Ending / Dark Ending (Bad-but-still-win)
+
+    Full Narrative Story Progression with Good & Bad Choice Paths
+
+HP & Spell Choice Summary 
+
+-Player HP: e.g., 10
+-Boss HP: varies per boss
+
+Spell effects:
+
+-Good / learned properly → reduces boss HP safely, no corruption
+-Dark / forbidden spell → reduces boss HP faster, increases corruption, minor backlash
+-Mistyped / failed spell → minor self-damage, weak effect, no progress
+
+Purpose:
+
+-Player can always win, but using dark spells has future consequences
+-Accumulated corruption affects dialogue, boss reactions, and final choice
+-HP adds tactical limitation; reckless use can backfire
+__________________________________________________________________________________________________________________________________________
+
+Default protagonist name: Dorian
+(But game will later allow player to input custom name.)
+
+__________________________________________________________________________________________________________________________________________
+
+PROLOGUE — The Whisper in the Halls
+
+Text:
+
+Astravale Academy rises beneath silver towers, bathed in lantern light. Young mages practice their arts in quiet halls, but lately, strange things stir.
+
+Whispers echo in the library at night.
+
+Shadows stretch longer than their casters.
+
+A cold wind carries a name you can almost hear:
+
+“The Eclipse is waking…”
+
+Your mentor, Professor Seraphine, summons you to her private study.
+
+Dialogue cue:
+
+Seraphine’s Warning (about Eclipse rising and the Grimoire fragments)
+
+Mentor’s Instruction (quest: collect 3 fragments, be tested in skill & heart)
+
+You leave her study, feeling the weight of your first great task.
+
+__________________________________________________________________________________________________________________________________________
+
+Chapter I — Arcane Greenhouse (Tutorial / Spell Training)
+
+Setting: Lumenford Arcane Conservatory, a glass-domed greenhouse with magical plants and floating pedestals.
+
+Guide: Professor Alderin, a quiet botanist mage.
+
+“Magic is intention,” he says.
+“Even the smallest spell reflects the caster. Speak clearly, and the Arcane will answer.”
+
+Training:
+
+Lumos — illuminate objects
+
+Aegis — shield against animated vines
+
+Vireo — manipulate plants / grow saplings
+
+Mechanics introduced:
+
+Player types spells to cast them
+
+Mistyped spell → gentle correction, no penalty
+
+Correct spell → successful effect
+
+Bridge to next chapter:
+
+Professor Alderin shows Verdant Ruins on a glowing map
+
+Warns: unstable magic, precision matters
+
+Optional mini skill check: glyph blocks the path → test Lumos
+
+Outcome:
+
+Player learns basic spells
+
+Typing mechanic practiced
+
+No morality consequences yet
+
+__________________________________________________________________________________________________________________________________________
+
+Chapter II — Verdant Ruins (First Real Trial)
+
+Setting: Ancient overgrown temple, walls pulsing with faint runes.
+
+Mechanics:
+
+Introduce Incendio (fire spell)
+
+HP system: Player HP starts at 10, boss HP varies
+
+Spell choice matters:
+
+Proper learned spells → safe victory
+
+Dark spells / forbidden → faster victory but increases corruption
+
+Mistyped → minor HP loss, weak effect
+
+Event Flow:
+
+Navigate ruins → minor magical obstacles (type Lumos, Aegis, Vireo)
+
+First boss: Corrupted Plant Guardian
+
+Player casts spells to defeat it
+
+HP & corruption feedback applied
+
+Artifact reward: Grimoire Fragment I
+
+Optional lore / dialogue hints: whispers about Eclipse & darkness path
+
+__________________________________________________________________________________________________________________________________________
+
+Chapter III — Hall of Forgotten Stars (Final Chapter)
+
+Setting: Grand hall with constellations overhead, runes floating in the air.
+
+Final boss: Magister Vaelios, or manifestation of the Eclipse
+
+Mechanics:
+
+Player uses all learned spells in correct sequence
+
+Each mistake → corruption +1
+
+HP can limit spell effectiveness
+
+Player has moral choice at the climax: Seal Eclipse (hero) or Embrace Darkness
+
+Possible Outcomes:
+
+Hero Ending: Corruption low, Eclipse sealed, world saved
+
+Tragic Hero Ending: Seal Eclipse but high corruption → sacrifice
+
+Dark Ending: Embrace Darkness → player becomes harbinger of shadow
