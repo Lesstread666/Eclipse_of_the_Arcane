@@ -34,8 +34,8 @@ const quitGame = () => {
 }
 
 const prologue = () => {
-    alert(`                                    ===PROLOGUE===
-                                ~~~The Whisper in the Halls~~~
+    alert(`                                     ===PROLOGUE===
+                             ~~~The Whisper in the Halls~~~
 
     The Astravale Academy of Arcane Studies rises upon crystalline cliffs, its towers crowned with silver runes that shimmer beneath moonlight.
 
@@ -78,8 +78,8 @@ prologue();
 const chapter_one = () => {
 
     const intro_chapter_one = () => {
-        alert(`===CHAPTER I===
-            ~~~Greenhouse training~~~
+        alert(`                                     ===CHAPTER I===
+                            ~~~Greenhouse training~~~
 You follow Professor Alderin, the quiet botanist mage, to the academy's greenhouse.  
 Sunlight streams through enchanted glass, illuminating rows of magical plants that sway gently, even without a breeze.
 
